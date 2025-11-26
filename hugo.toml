@@ -2,7 +2,26 @@ baseURL = 'https://omersakar.github.io/'
 languageCode = 'en-us'
 title = 'Ömer Şakar'
 theme = 'hugo-bearblog'
+sectionPagesMenu = 'main'
+
+
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About me"
+    url = "/about"
+    weight = 4
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications"
+    weight = 3
+
