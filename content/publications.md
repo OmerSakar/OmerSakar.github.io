@@ -4,4 +4,5 @@ draft = true
 title = 'Publications'
 +++
 
- <script src="https://bibbase.org/show?bib=[URL-OF-BIBTEX-FILE]&jsonp=1"></script> 
+<base href="{{ .Site.BaseURL }}">
+ <script src="https://bibbase.org/show?bib=static/publications.bib&jsonp=1"></script> 

@@ -2,3 +2,7 @@ baseURL = 'https://omersakar.github.io/'
 languageCode = 'en-us'
 title = 'Ömer Şakar'
 theme = 'hugo-bearblog'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
