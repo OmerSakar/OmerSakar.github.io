@@ -4,8 +4,6 @@ title = 'Ömer Şakar'
 theme = 'hugo-bearblog'
 sectionPagesMenu = 'main'
 
-
-
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
@@ -15,13 +13,17 @@ sectionPagesMenu = 'main'
     url = "/"
     weight = 1
 
-  [[menu.main]]
-    name = "About me"
-    url = "/about"
-    weight = 4
-
-  [[menu.main]]
+[[menu.main]]
     name = "Publications"
     url = "/publications"
-    weight = 3
+    weight = 10
 
+[[menu.main]]
+    name = "Education/Work Exp."
+    url = "/eduwork"
+    weight = 30
+
+[[menu.main]]
+    name = "About me"
+    url = "/about"
+    weight = 50
