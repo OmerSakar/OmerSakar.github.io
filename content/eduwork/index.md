@@ -14,9 +14,13 @@ I am currently doing my PhD in the Formal Methods and Tools group, part of the F
 
 GPUs have an increasingly big impact on industry and academia, due to their great computational capabilities. However, in practice, one usually needs to have expert knowledge on GPU architectures to optimally gain advantage of those capabilities. At the Eindhoven University of Technology, Wijs will work on modelling GPU applications using a Domain Specific Language, formally verifying the correctness of the models, and automatically generating GPU code. At the University of Twente, Huisman will work on the structured optimisation of GPU code, while ensuring that functional correctness is preserved. Existing formal verification techniques, model checking and code verification, will be combined to create, for the first time, a complete end-to-end development workflow for GPU applications.
 
-During my PhD, I worked mainly with the [VerCors](https://vercors.ewi.utwente.nl/) toolset, a static verifier for concurrent software. It also supports the deductive verification of GPGPU programs. For my publications, see [here](/publications).
+During my PhD, I worked mainly with the [VerCors](https://vercors.ewi.utwente.nl/) toolset, a static verifier for concurrent software. It also supports the deductive verification of GPGPU programs. 
 
-Programming Principles, Patterns, Processes, Paradigms, Problems
+For my publications, see [here](/publications).
+
+Education I was involved in:
+* Programming, Bachelor course, introduction to programming, role Teacher  
+* Programming Principles, Patterns, Processes, Master's course, role assisting Teacher.
 
 
 ## Teaching Assistant (TA, Student Assistent) {{< fsr txt="2016 ‑ 2020" size="12px">}} 
