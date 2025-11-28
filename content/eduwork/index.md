@@ -32,7 +32,7 @@ Education I was involved in:
     * Data & Information (2017/2018, 2018/2019). A module with courses on structured/unstructured data, databases, scripting frameworks and services such as RESTful services.
 
 ## Developer Quizzard {{< fsr txt="Feb. 2017 ‑ May 2019" size="12px">}} 
-###### {{< fs txt="University of Twente, Enschede, Netherlands" size="16px">}}  
+###### {{< fs txt="Enschede, Netherlands" size="16px">}}  
 - Quizzard: A teaching quiz application.
 - Mainly back end development.
 - Technologies used: Java, Maven, PostgreSQL, Spring Boot, Thymeleaf, Hibernate, React.
