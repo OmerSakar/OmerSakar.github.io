@@ -12,15 +12,15 @@ I am currently doing my PhD in the Formal Methods and Tools group, part of the F
 
 [ChEOPS](https://cheops.win.tue.nl/people) project: Integrating Verification into GPU Program Development. Within this project we investigate how to make the development and maintenance of software aimed at graphics processing units (GPUs) more insightful and effective in terms of functional correctness and performance.
 
-GPUs have an increasingly big impact on industry and academia, due to their great computational capabilities. However, in practice, one usually needs to have expert knowledge on GPU architectures to optimally gain advantage of those capabilities. At the Eindhoven University of Technology, Wijs will work on modelling GPU applications using a Domain Specific Language, formally verifying the correctness of the models, and automatically generating GPU code. At the University of Twente, Huisman will work on the structured optimisation of GPU code, while ensuring that functional correctness is preserved. Existing formal verification techniques, model checking and code verification, will be combined to create, for the first time, a complete end-to-end development workflow for GPU applications.
+GPUs have an increasingly big impact on industry and academia, due to their great computational capabilities. However, in practice, one usually needs to have expert knowledge on GPU architectures to optimally gain advantage of those capabilities. 
 
-During my PhD, I worked mainly with the [VerCors](https://vercors.ewi.utwente.nl/) toolset, a static verifier for concurrent software. It also supports the deductive verification of GPGPU programs. 
+Within the project, I focussed on the verification of GPU code and the structured optimisation of GPU code, while ensuring that functional correctness is preserved. 
 
-For my publications, see [here](/publications).
+During my PhD, I worked mainly with the [VerCors](https://vercors.ewi.utwente.nl/) toolset, a deductive verifier for concurrent software. It also supports the deductive verification of GPGPU programs. For my publications, see [here](/publications).
 
 Education I was involved in:
-* Programming, Bachelor course, introduction to programming, role Teacher  
-* Programming Principles, Patterns, Processes, Master's course, role assisting Teacher.
+* **Programming**, Bachelor course, introduction to programming, role Teacher  
+* **Programming Principles, Patterns, Processes**, Master's course, role assisting Teacher.
 
 
 ## Teaching Assistant (TA, Student Assistent) {{< fsr txt="2016 ‑ 2020" size="12px">}} 
@@ -56,7 +56,13 @@ I am currently doing my PhD in the Formal Methods and Tools group, part of the F
 
 GPUs have an increasingly big impact on industry and academia, due to their great computational capabilities. However, in practice, one usually needs to have expert knowledge on GPU architectures to optimally gain advantage of those capabilities. 
 
-Within the project, I focussed on the verification of GPU code and the structured optimisation of GPU code, while ensuring that functional correctness is preserved. During my PhD, I worked mainly with the [VerCors](https://vercors.ewi.utwente.nl/) toolset, a deductive verifier for concurrent software. It also supports the deductive verification of GPGPU programs. For my publications, see [here](/publications).
+Within the project, I focussed on the verification of GPU code and the structured optimisation of GPU code, while ensuring that functional correctness is preserved. 
+
+During my PhD, I worked mainly with the [VerCors](https://vercors.ewi.utwente.nl/) toolset, a deductive verifier for concurrent software. It also supports the deductive verification of GPGPU programs. For my publications, see [here](/publications).
+
+Education I was involved in:
+* **Programming**, Bachelor course, introduction to programming, role Teacher  
+* **Programming Principles, Patterns, Processes**, Master's course, role assisting Teacher.
 
 ## Master: Technical Computer Science {{< fsr txt="Nov. 2017 ‑ April 2020" size="12px">}}  
 ###### {{< fs txt="Master of Science, University of Twente, Enschede, Netherlands" size="16px">}}  
