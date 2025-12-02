@@ -24,6 +24,8 @@ sectionPagesMenu = 'main'
     weight = 30
 
 [[menu.main]]
-    name = "About me"
-    url = "/about"
+    name = "Random"
+    url = "/random"
     weight = 50
+[markup.goldmark.renderer]
+    unsafe= true
