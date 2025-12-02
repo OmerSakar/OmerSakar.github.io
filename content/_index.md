@@ -1,13 +1,13 @@
 ---
-title: "Omg"
+title: "Homepage"
 ---
 
-{{< figure src="/2020.jpg" title="" class="img-right" style="asdf:true" >}}
+{{< figure src="/2020.jpg" title="" class="imgright" >}}
 
 <br>
 
 {{< justify >}}
-My I am currently doing my PhD in the Formal Methods and Tools group, part of the Faculty of Electrical Engineering, Mathematics and Computer Science". The project I am involved with is called ChEOPS.
+My name is Ömer Şakar. I am currently doing my PhD in the Formal Methods and Tools group, part of the Faculty of Electrical Engineering, Mathematics and Computer Science". The project I am involved with is called ChEOPS.
 {{</ justify >}}
 
 {{< justify >}}
