@@ -135,6 +135,6 @@ Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Şakar.
 
 # Presentations
 * [2020] Master thesis presentation, 22 April 2020 [&nbsp;<a href="/pdf/master_colloquium.pdf">slides</a>&nbsp;]
-* [2021] Software Verification with LEAN. Joint talk at the FMT colloquium with [Bob Rubbens](bobrubbens.nl), Lukas Armborst, Ömer Şakar. [&nbsp;<a href="/pdf/lean_colloquium.pdf">slides</a>&nbsp;] 
+* [2021] Software Verification with LEAN. Joint talk at the FMT colloquium with [Bob Rubbens](https://bobrubbens.nl), Lukas Armborst, Ömer Şakar. [&nbsp;<a href="/pdf/lean_colloquium.pdf">slides</a>&nbsp;] 
 * [2022] Alpinist: an Annotation-Aware GPU Program Optimizer. Presentated (initially) at TACAS 2022 [&nbsp;<a href="/pdf/tacas_alpinist.pdf">slides</a>&nbsp;]. The slides have been presented numerous times.
 * [2025] Presenting VerCors and its SYCL support to Codeplay Software Ltd. [&nbsp;<a href="/pdf/codeplay_visit_slides.pdf">slides</a>&nbsp;]
