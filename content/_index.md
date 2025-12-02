@@ -1,9 +1,6 @@
 ---
 ---
 
-
-<!-- {{< figure src="images/2020.jpg" aly="My photo" class="imgright" >}} -->
-
 {{< resize src="images/2020.jpg" size="400x" alt="My photo" >}}
 
 <br>
@@ -25,7 +22,7 @@ Within the project, I focussed on the verification of GPU code and the structure
 {{</ justify >}}
 
 {{< justify >}}
-During my PhD, I worked mainly with the [VerCors](https://vercors.ewi.utwente.nl/) toolset, a deductive verifier for concurrent software. It also supports the deductive verification of GPGPU programs. For my publications, see [here](/publications).
+During my PhD, I worked mainly with the <a href="https://vercors.ewi.utwente.nl/">VerCors</a> toolset, a deductive verifier for concurrent software. It also supports the deductive verification of GPGPU programs. For my publications, see <a href="/publications">here</a>.
 {{</ justify >}}
 
 

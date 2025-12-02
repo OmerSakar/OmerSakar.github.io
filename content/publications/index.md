@@ -58,7 +58,6 @@ Lukas Armborst, Pieter Bos, Lars&nbsp;B van&nbsp;den Haak, Marieke Huisman, Robe
 [&nbsp;<a href="http://dx.doi.org/10.1007/978-3-031-65630-9_1">DOI</a>&nbsp;| 
 &nbsp;<a href="https://doi.org/10.1007/978-3-031-65630-9_1">http</a>&nbsp;|
 &nbsp;<a href="https://doi.org/10.4121/a5f97e07-9f84-4223-b581-6d2606fe07ba.v3">artifact</a>&nbsp;]
-
 </td>
 </tr>
 
@@ -74,9 +73,7 @@ Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Şakar.
   Software Engineering</em>, pages 290--303. Springer, 2024.
 [&nbsp;<a href="http://dx.doi.org/10.1007/978-3-031-57259-3_15">DOI</a>&nbsp;| 
 &nbsp;<a href="https://doi.org/10.1007/978-3-031-57259-3_15">http</a>&nbsp;|
-&nbsp;<a href="https://doi.org/10.4121/9c8c079e-a941-4a66-89d8-3462bf30ff05.v1">artifact</a>&nbsp;
-]
-
+&nbsp;<a href="https://doi.org/10.4121/9c8c079e-a941-4a66-89d8-3462bf30ff05.v1">artifact</a>&nbsp;]
 </td>
 </tr>
 
@@ -96,8 +93,7 @@ Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Şakar.
 [&nbsp;<a href="http://dx.doi.org/10.1007/978-3-030-99527-0_18">DOI</a>&nbsp;| 
 &nbsp;<a href="https://doi.org/10.1007/978-3-030-99527-0_18">http</a>&nbsp;| 
 &nbsp;<a href="http://dx.doi.org/10.4121/16938556.v2">artifact</a>&nbsp;| 
-&nbsp;<a href="/pdf/tacas_alpinist.pdf">slides</a>&nbsp;
-]
+&nbsp;<a href="/pdf/tacas_alpinist.pdf">slides</a>&nbsp;]
 </td>
 </tr>
 
@@ -111,8 +107,7 @@ Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Şakar.
  Master's thesis, University of Twente, 2020.
  [&nbsp;<a href="/pdf/master_thesis.pdf">.pdf</a>&nbsp;|
 &nbsp;<a href="https://purl.utwente.nl/essays/80892">http</a>&nbsp;| 
-&nbsp;<a href="/pdf/master_colloquium.pdf">slides</a>&nbsp;
-  ].
+&nbsp;<a href="/pdf/master_colloquium.pdf">slides</a>&nbsp;]
 </td>
 </tr>
 
