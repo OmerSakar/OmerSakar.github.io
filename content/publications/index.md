@@ -18,12 +18,12 @@ draft = false
 [<a name="csakar2025preserving">8</a>]
 </td>
 <td class="bibtexitem">
-&Ouml;mer Sakar, Mohsen Safari, Marieke Huisman, and Anton Wijs.
+&Ouml;mer Şakar, Mohsen Safari, Marieke Huisman, and Anton Wijs.
  Preserving provability over GPU program optimizations with
   annotation-aware transformations.
  <em>Formal Methods in System Design</em>, pages 1--57, 2025.
 [&nbsp;<a href="http://dx.doi.org/10.1007/s10703-025-00480-7">DOI</a>&nbsp;| 
-<a href="https://doi.org/10.1007/s10703-025-00480-7">http</a>&nbsp;]
+&nbsp;<a href="https://doi.org/10.1007/s10703-025-00480-7">http</a>&nbsp;]
 
 </td>
 </tr>
@@ -34,13 +34,13 @@ draft = false
 [<a name="wittingen2024deductive">7</a>]
 </td>
 <td class="bibtexitem">
-Ellen Wittingen, Marieke Huisman, and &Ouml;mer Sakar.
+Ellen Wittingen, Marieke Huisman, and &Ouml;mer Şakar.
  Deductive Verification of SYCL in VerCors.
  In <em>International Conference on Software Engineering and Formal
   Methods</em>, pages 182--199. Springer, 2024.
 [&nbsp;<a href="http://dx.doi.org/10.1007/978-3-031-77382-2_11">DOI</a>&nbsp;| 
-<a href="https://doi.org/10.1007/978-3-031-77382-2_11">http</a>&nbsp;]
-
+&nbsp;<a href="https://doi.org/10.1007/978-3-031-77382-2_11">http</a>&nbsp;|
+&nbsp;<a href="https://doi.org/10.4121/45d37292-cce5-4fb7-8d4e-a1b32cfa3028.v1">artifact</a>&nbsp;]
 </td>
 </tr>
 
@@ -51,12 +51,13 @@ Ellen Wittingen, Marieke Huisman, and &Ouml;mer Sakar.
 </td>
 <td class="bibtexitem">
 Lukas Armborst, Pieter Bos, Lars&nbsp;B van&nbsp;den Haak, Marieke Huisman, Robert
-  Rubbens, &Ouml;mer Sakar, and Philip Tasche.
+  Rubbens, &Ouml;mer Şakar, and Philip Tasche.
  The VerCors verifier: a progress report.
  In <em>International Conference on Computer Aided Verification</em>,
   pages 3--18. Springer, 2024.
 [&nbsp;<a href="http://dx.doi.org/10.1007/978-3-031-65630-9_1">DOI</a>&nbsp;| 
-<a href="https://doi.org/10.1007/978-3-031-65630-9_1">http</a>&nbsp;]
+&nbsp;<a href="https://doi.org/10.1007/978-3-031-65630-9_1">http</a>&nbsp;|
+&nbsp;<a href="https://doi.org/10.4121/a5f97e07-9f84-4223-b581-6d2606fe07ba.v3">artifact</a>&nbsp;]
 
 </td>
 </tr>
@@ -67,12 +68,14 @@ Lukas Armborst, Pieter Bos, Lars&nbsp;B van&nbsp;den Haak, Marieke Huisman, Robe
 [<a name="van2024first">5</a>]
 </td>
 <td class="bibtexitem">
-Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Sakar.
+Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Şakar.
  First Steps towards Deductive Verification of LLVM IR.
  In <em>International Conference on Fundamental Approaches to
   Software Engineering</em>, pages 290--303. Springer, 2024.
 [&nbsp;<a href="http://dx.doi.org/10.1007/978-3-031-57259-3_15">DOI</a>&nbsp;| 
-<a href="https://doi.org/10.1007/978-3-031-57259-3_15">http</a>&nbsp;]
+&nbsp;<a href="https://doi.org/10.1007/978-3-031-57259-3_15">http</a>&nbsp;|
+&nbsp;<a href="https://doi.org/10.4121/9c8c079e-a941-4a66-89d8-3462bf30ff05.v1">artifact</a>&nbsp;
+]
 
 </td>
 </tr>
@@ -83,7 +86,7 @@ Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Sakar.
 [<a name="csakar2022alpinist">4</a>]
 </td>
 <td class="bibtexitem">
-&Ouml;mer Sakar, Mohsen Safari, Marieke Huisman, and Anton Wijs.
+&Ouml;mer Şakar, Mohsen Safari, Marieke Huisman, and Anton Wijs.
  Alpinist: an Annotation-Aware GPU Program.
  In <em>Tools and Algorithms for the Construction and Analysis of
   Systems: 28th International Conference, TACAS 2022, Held as Part of the
@@ -91,39 +94,25 @@ Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Sakar.
   Munich, Germany, April 2--7, 2022, Proceedings</em>, volume 13244, pages
   332--352. Springer Nature, 2022.
 [&nbsp;<a href="http://dx.doi.org/10.1007/978-3-030-99527-0_18">DOI</a>&nbsp;| 
-<a href="https://doi.org/10.1007/978-3-030-99527-0_18">http</a>&nbsp;]
-
+&nbsp;<a href="https://doi.org/10.1007/978-3-030-99527-0_18">http</a>&nbsp;| 
+&nbsp;<a href="http://dx.doi.org/10.4121/16938556.v2">artifact</a>&nbsp;| 
+&nbsp;<a href="/pdf/tacas_alpinist.pdf">slides</a>&nbsp;
+]
 </td>
 </tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="csakar2021artifact">3</a>]
-</td>
-<td class="bibtexitem">
-&Ouml;mer Sakar, Mohsen Safari, Marieke Huisman, and Anton Wijs.
- Artifact for paper (Alpinist: an Annotation-Aware GPU Program
-  Optimizer).
- 2021.
-[&nbsp;<a href="http://dx.doi.org/10.4121/16938556.v2">DOI</a>&nbsp;| 
-<a href="https://doi.org/10.4121/16938556.v2">http</a>&nbsp;]
-
-</td>
-</tr>
-
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
 [<a name="csakar2020extending">2</a>]
 </td>
 <td class="bibtexitem">
-&Ouml;mer Sakar.
+&Ouml;mer Şakar.
  Extending Support for Axiomatic Data Types in VerCors.
  Master's thesis, University of Twente, 2020.
- [ <a href="/master_thesis.pdf">.pdf</a> |
-  <a href="https://purl.utwente.nl/essays/80892">http</a> ].
-
+ [&nbsp;<a href="/pdf/master_thesis.pdf">.pdf</a>&nbsp;|
+&nbsp;<a href="https://purl.utwente.nl/essays/80892">http</a>&nbsp;| 
+&nbsp;<a href="/pdf/master_colloquium.pdf">slides</a>&nbsp;
+  ].
 </td>
 </tr>
 
@@ -133,11 +122,11 @@ Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Sakar.
 [<a name="csakar2017correlating">1</a>]
 </td>
 <td class="bibtexitem">
-&Ouml;mer Sakar.
+&Ouml;mer Şakar.
  Correlating the 2012 Dutch House of Representatives Elections based
   on Twitter mentions of Parties and their Party Leader.
  2017.
-[&nbsp;<a href="/bachelor_thesis.pdf">.pdf</a>&nbsp;]
+[&nbsp;<a href="/pdf/bachelor_thesis.pdf">.pdf</a>&nbsp;]
 
 </td>
 </tr>
@@ -145,5 +134,7 @@ Dr&eacute; van Oorschot, Marieke Huisman, and &Ouml;mer Sakar.
 <a href="http://www.lri.fr/~filliatr/bibtex2html/">bibtex2html</a> 1.99.</em></p>
 
 # Presentations
-* Master thesis presentation, 22 April 2020 [[]]()
-* 
+* [2020] Master thesis presentation, 22 April 2020 [&nbsp;<a href="/pdf/master_colloquium.pdf">slides</a>&nbsp;]
+* [2021] Software Verification with LEAN. Joint talk at the FMT colloquium with [Bob Rubbens](bobrubbens.nl), Lukas Armborst, Ömer Şakar. [&nbsp;<a href="/pdf/lean_colloquium.pdf">slides</a>&nbsp;] 
+* [2022] Alpinist: an Annotation-Aware GPU Program Optimizer. Presentated (initially) at TACAS 2022 [&nbsp;<a href="/pdf/tacas_alpinist.pdf">slides</a>&nbsp;]. The slides have been presented numerous times.
+* [2025] Presenting VerCors and its SYCL support to Codeplay Software Ltd. [&nbsp;<a href="/pdf/codeplay_visit_slides.pdf">slides</a>&nbsp;]

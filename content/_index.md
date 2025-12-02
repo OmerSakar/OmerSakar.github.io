@@ -9,7 +9,7 @@
 <br>
 
 {{< justify >}}
-My name is Ömer Şakar. I am currently doing my PhD in the Formal Methods and Tools group, part of the Faculty of Electrical Engineering, Mathematics and Computer Science". The project I am involved with is called ChEOPS.
+I am currently doing my PhD in the Formal Methods and Tools group, part of the Faculty of Electrical Engineering, Mathematics and Computer Science". The project I am involved with is called ChEOPS.
 {{</ justify >}}
 
 {{< justify >}}
