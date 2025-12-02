@@ -1,8 +1,10 @@
 ---
-title: "Homepage"
 ---
 
-{{< figure src="/2020.jpg" title="" class="imgright" >}}
+
+<!-- {{< figure src="images/2020.jpg" aly="My photo" class="imgright" >}} -->
+
+{{< resize src="images/2020.jpg" size="400x" alt="My photo" >}}
 
 <br>
 
