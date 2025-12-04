@@ -3,6 +3,8 @@ date = '2025-11-26T12:45:56+01:00'
 draft = false
 +++
 
+# CV
+Link to [CV](/pdf/cv2025-12.pdf)
 
 # Work Experience
 ## PhD Student {{< fsr txt="Jun. 2020 ‑ Present" size="12px">}} 

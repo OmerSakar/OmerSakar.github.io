@@ -41,7 +41,7 @@
     \begin{cvitems} % Description(s) bullet points
         \item Authors: Lukas Armborst, Pieter Bos, Lars B van den Haak, Marieke Huisman, Robert Rubbens, Ömer Şakar, and Philip Tasche.
         \item Abstract: This paper gives an overview of the most recent developments on the VerCors verifier. VerCors is a deductive verifier for concurrent software, written in multiple programming languages, where the specifications are written in terms of pre-/postcondition contracts using permission-based separation logic. In essence, VerCors is a program transformation tool: it translates an annotated program into input for the Viper framework, which is then used as verification back-end. The paper discusses the different programming languages and features for which VerCors provides verification support. It also discusses how the tool internally has been reorganised to become easily extendible, and to improve the connection and interaction with Viper. In addition, we also introduce two tools built on top of VerCors, which support correctness-preserving transformations of verified programs. Finally, we discuss how the VerCors verifier has been used on a range of realistic case studies.
-        \item DOI: \url{http://dx.doi.org/10.1007/978-3-031-65630-9_1}
+        \item DOI: \href{http://dx.doi.org/10.1007/978-3-031-65630-9_1}{10.1007/978-3-031-65630-9\_1}
     \end{cvitems}
 }
 
@@ -55,7 +55,7 @@
     \begin{cvitems} % Description(s) bullet points
         \item Authors: Dré van Oorschot, Marieke Huisman, \"Omer \c{S}akar
         \item Abstract: Over the last years, deductive program verifiers have substantially improved, and their applicability on non-trivial applications has been demonstrated. However, a major bottleneck is that for every new programming language, a new deductive verifier has to be built. This paper describes the first steps in a project that aims to address this problem, by language-agnostic support for deductive verification: Rather than building a deductive program verifier for every programming language, we develop deductive program verification technology for a widely-used intermediate representation language (LLVM IR), such that we eventually get verification support for any language that can be compiled into the LLVM IR format. Concretely, this paper describes the design of VCLLVM, a prototype tool that adds LLVM IR as a supported language to the VerCors verifier. We discuss the challenges that have to be addressed to develop verification support for such a low-level language. Moreover, we also sketch how we envisage to build verification support for any specified source program that can be compiled into LLVM IR on top of VCLLVM.
-        \item DOI: \url{https://doi.org/10.1007/978-3-031-57259-3_15}{10.1007/978-3-031-57259-3\_15}
+        \item DOI: \href{https://doi.org/10.1007/978-3-031-57259-3_15}{10.1007/978-3-031-57259-3\_15}
     \end{cvitems}
 }
 
@@ -69,9 +69,41 @@
 	\begin{cvitems} % Description(s) bullet points
 		\item Authors: \"Omer \c{S}akar, Mohsen Safari, Marieke Huisman, Anton Wijs
 		\item Abstract: Over the last years, deductive program verifiers have substantially improved, and their applicability on non-trivial applications has been demonstrated. However, a major bottleneck is that for every new programming language, a new deductive verifier has to be built. This paper describes the first steps in a project that aims to address this problem, by language-agnostic support for deductive verification: Rather than building a deductive program verifier for every programming language, we develop deductive program verification technology for a widely-used intermediate representation language (LLVM IR), such that we eventually get verification support for any language that can be compiled into the LLVM IR format. Concretely, this paper describes the design of VCLLVM, a prototype tool that adds LLVM IR as a supported language to the VerCors verifier. We discuss the challenges that have to be addressed to develop verification support for such a low-level language. Moreover, we also sketch how we envisage to build verification support for any specified source program that can be compiled into LLVM IR on top of VCLLVM.
-		\item DOI: \url{https://doi.org/10.1007/978-3-030-99527-0_18}{10.1007/978-3-030-99527-0\_18}
+		\item DOI: \href{https://doi.org/10.1007/978-3-030-99527-0_18}{10.1007/978-3-030-99527-0\_18}
 	\end{cvitems}
 }
-	
+\end{cventries}
 
+\cvsection{Presentations}
+
+\begin{cventries}
+    
+    \cventry
+    {Slides: \url{\web/pdf/master_colloquium.pdf}}
+    {Master's colloquium (Presentation of Master's thesis)}
+    {University of Twente, Enschede, Netherlands}
+    {22 April 2020}
+    {}
+    
+    \cventry
+    {Slides: \url{\web/pdf/lean_colloquium.pdf}}
+    {Software Verification with LEAN.}
+    {University of Twente, Enschede, Netherlands}
+    {2021}
+    {Joint talk at the FMT colloquium with Bob Rubbens, Lukas Armborst, Ömer Şakar.}
+    
+    \cventry
+    {Slides: \url{\web/pdf/lean_colloquium.pdf}}
+    {Alpinist: an Annotation-Aware GPU Program Optimizer.}
+    {International Conference on Tools and Algorithms for the Construction and Analysis of Systems 2022}
+    {2022}
+    {Joint talk at the FMT colloquium with Bob Rubbens, Lukas Armborst, Ömer Şakar.}
+    
+    \cventry
+    {Slides: \url{\web/pdf/codeplay_visit_slides.pdf}}
+    {VerCors+SYCL}
+    {Edinburgh, Scotland}
+    {2025}
+    {Presenting VerCors and its SYCL support to Codeplay Software Ltd. } 
+    
 \end{cventries}
